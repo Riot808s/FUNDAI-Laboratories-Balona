@@ -9,7 +9,7 @@ Student Information
 
 - Course: BSCSAI
 
-- Section: 1A
+- Section: 2A
 
 - GitHub Username: Riot808s
 
